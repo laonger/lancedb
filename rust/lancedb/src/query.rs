@@ -678,7 +678,7 @@ impl VectorQuery {
             refine_factor: None,
             distance_type: None,
             use_index: true,
-            prefilter: true,
+            prefilter: false,
         }
     }
 
